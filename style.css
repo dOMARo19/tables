@@ -12,6 +12,7 @@
     height: 50px;
     width: 33.33%;
 }
-.td-table156 {
+.td-table1col {
     height: 200px;
+    border: 1px solid black;
 }
