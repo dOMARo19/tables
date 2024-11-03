@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+.table1 {
+    width: 100%;
+    text-align: center;
+}
+.td-table1 {
+    border: 1px solid black;
+    height: 100px;
+}
