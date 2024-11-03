@@ -20,6 +20,8 @@
 .table2par {
     margin-top: 50px;
     margin-bottom: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
     width: 90%;
     text-align: center;
     border-collapse: collapse;
@@ -32,6 +34,8 @@
 }
 .table2d {
     margin-top: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
     width: 80%;
     text-align: center;
     border-collapse: collapse;
