@@ -2,13 +2,16 @@
     box-sizing: border-box;
 }
 .table1 {
-    width: 100%;
+    width: 75%;
     text-align: center;
     margin-top: 20px;
     border-collapse: collapse;
 }
 .td-table1 {
     border: 1px solid black;
-    height: 100px;
-    width: 33.33333%;
+    height: 50px;
+    width: 33.33%;
+}
+.td-table156 {
+    height: 200px;
 }
