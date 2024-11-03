@@ -6,6 +6,7 @@
     text-align: center;
     margin-top: 20px;
     border-collapse: collapse;
+    margin: 0 auto;
 }
 .td-table1 {
     border: 1px solid black;
