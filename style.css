@@ -20,8 +20,8 @@
 .table2par {
     width: 75%;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     border-collapse: collapse;
     margin: 0 auto;
 }
@@ -34,7 +34,7 @@
 .table2d {
     width: 75%;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 50px;
     border-collapse: collapse;
     margin: 0 auto; 
 }
