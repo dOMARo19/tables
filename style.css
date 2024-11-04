@@ -29,27 +29,26 @@
     height: 50px;
     width: 33.33%; 
 }
-.w40 {
+.w40,
+.w60,
+.w72,
+.w28 {
     margin-top: 20px;
     border: 1px solid black;
+}
+.w40 {
     height: 50px;
     width: 40%;  
 }
 .w60 {
-    margin-top: 20px;
-    border: 1px solid black;
     height: 50px;
     width: 60%;
 }
 .w72 {
-    margin-top: 20px;
-    border: 1px solid black;
     height: 50px;
     width: 72%;
 }
 .w28 {
-    margin-top: 20px;
-    border: 1px solid black;
     height: 50px;
     width: 28%;
 }
