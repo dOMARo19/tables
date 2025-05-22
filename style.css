@@ -3,9 +3,7 @@
 }
 .table1 {
     width: 75%;
-    text-align: center;
     margin-top: 20px;
-    border-collapse: collapse;
     margin: 0 auto;
 }
 .td-table1,
@@ -29,11 +27,16 @@
 .table2d {
     margin: 50px auto;
     width: 90%;
-    text-align: center;
-    border-collapse: collapse;
 }
 .td-table2par {
     height: 50px;
+}
+
+.table1,
+.table2par,
+.table2d {
+    text-align: center;
+    border-collapse: collapse;
 }
 
 .td-table2par,
